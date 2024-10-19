@@ -19,7 +19,7 @@ Missing value checks
 Data type verification
 
 
-Distribution Analysis
+Distribution Analysis.
 
 Histograms for numerical variables (price, mileage, horsepower, fuel efficiency)
 Box plots for outlier detection
@@ -57,7 +57,7 @@ seaborn
 
 Clone the repository:
 
-bashCopygit clone https://github.com/yourusername/auto-data-analysis.git
+bashCopygit clone https://github.com/RehanPatel2003/Task1-EDA-.git
 
 Install required packages:
 
