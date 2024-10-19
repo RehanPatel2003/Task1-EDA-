@@ -1,4 +1,5 @@
-# Task1-EDA
+# Project: Exploratory Data Analysis on automobile data, implementing various statistical and visualization techniques to understand patterns and relationships in vehicle characteristics.
+
 Name:REHAN PATEL
 Componey:CODTECH IT SOLLUTION
 ID:CT08DS9201
